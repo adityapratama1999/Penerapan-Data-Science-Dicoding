@@ -17,7 +17,7 @@ The business problems this project aims to address include:
 *   Identify key features or factors contributing to employee turnover using statistical and machine learning methods.
 *   Develop an interactive business dashboard that HR managers can use to regularly monitor and analyze these factors.
 # Preparation
-Data Source: [Jaya Jaya Maju Dataset]([text](https://github.com/dicodingacademy/dicoding_dataset/blob/main/employee/employee_data.csv))
+Data Source: [JayaJayaMaju](https://github.com/dicodingacademy/dicoding_dataset/blob/main/employee/employee_data.csv))
 Setup Enviroment:
 ```
 # pip install -r requirements.txt
