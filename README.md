@@ -1,1 +1,1 @@
-# Penerapan-Data-Science-Dicoding
+# Final project Data Science: Solving the Problems of Jaya Jaya Maju Company.
