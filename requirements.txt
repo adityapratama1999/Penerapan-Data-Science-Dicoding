@@ -1,0 +1,4 @@
+pandas version 2.2.2
+seaborn version 0.13.2
+matplotlib version 3.10.0
+joblib version 1.5.3
